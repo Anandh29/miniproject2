@@ -1,0 +1,19 @@
+.marquee-container {
+    overflow: hidden;
+    width: 100%;
+    background-color:grey; /* Adjust background color as needed */
+    padding: 10px; /* Adjust padding as needed */
+    height:100px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height:200px;
+  }
+  
+  .marquee-text {
+    font-size: 24px; /* Adjust font size as needed */
+    color: white; /* Adjust text color as needed */
+    white-space: nowrap;
+    text-align: center;
+  }

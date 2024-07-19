@@ -1,0 +1,10 @@
+.cont{
+  background-image: linear-gradient(to right, #0099f7, #f11712);
+  height:100vh;
+}
+.btn1
+{
+  position:relative;
+  top:-36px;
+  left:-916px;
+}
